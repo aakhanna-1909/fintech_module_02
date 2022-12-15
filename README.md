@@ -76,6 +76,9 @@ Before running the application, first install the following dependencies:
 	- If "Yes", the program asks the user to provide the location where he or she wants the CSV file to be saved.
 	- If "No", the program ends.
 
+5) If user decides to save the qualifying loans, the application will ask the user to specify the path of the folder where he or she wants to store the CSV file of the qualifying loans.
+
+Once the program is completely executed, the user will see the CSV file of the qualifying loans in the specified folder path.
 
 ---
 
